@@ -1,4 +1,4 @@
-package com.javatpoint;
+package com.training.springboot.actuatorautoconfig;
 
 import org.junit.Test;
 import org.junit.runner.RunWith;

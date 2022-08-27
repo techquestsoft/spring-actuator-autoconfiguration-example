@@ -1,4 +1,4 @@
-package com.javatpoint;
+package com.training.springboot.actuatorautoconfig;
 
 import org.springframework.web.bind.annotation.GetMapping;
 import org.springframework.web.bind.annotation.RestController;
